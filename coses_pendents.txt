@@ -1,0 +1,12 @@
+- Hi han moltes instruccions no oficials no implementades
+  (vorez80oplist.txt i z80-documented.pdf).
+
+- La implementació de DAA fallaba al implementar la UCP de la
+  GameBoy. Hi hauria que reimplementar-la basant-se en la de la
+  GameBoy? En la de la GameBoy HFLAG es ficaba a 0.
+
+- En la implementació de la GameBoy la instrucció CCF també fica a 0
+  el flag HFLAG.
+
+- En la implementació de la GameBoy les instruccions RLCA, RLA, RRCA i
+  RRA presenten un tractament dels flags diferent.
