@@ -14,7 +14,7 @@
  * General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with Foobar.  If not, see <https://www.gnu.org/licenses/>.
+ * along with adriagipas/Z80.  If not, see <https://www.gnu.org/licenses/>.
  */
 /*
  *  Z80.h - Simulador del processador Z80 escrit en ANSI C.
